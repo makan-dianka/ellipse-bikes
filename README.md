@@ -36,3 +36,8 @@ Créer un fichier ```.env``` dans la racine du projet. C'est à dire où il y a 
 vous êtes prêt. executer le fichier ```main.py``` et suivez les options.
 
 ```python main.py```
+
+
+# Demo
+
+<img src="/media/ellipse.gif">
