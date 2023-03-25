@@ -35,7 +35,7 @@ if sys.platform != "linux":
 print("\nCe script vous permet de faire une recherche de disponibilité des vélos par ville et autre. Voir les commands ci-après.")
 
 # les commands valable dans la console
-print("\nCommands : \n * (A) pour voir tout\n * (C) pour faire une recherche par ville \n * (P10) pour voir toutes les villes disposant plus des 10 vélos\n")
+print("\nCommands : \n * (A) pour voir tout\n * (C) pour faire une recherche par ville \n * (P10) pour voir toutes les villes disposant plus de 10 vélos\n")
 
 # recuperation de la saisi de l'utilisateur 
 user_input = input('Command > ')
